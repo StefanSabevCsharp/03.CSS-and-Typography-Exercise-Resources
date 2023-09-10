@@ -1,0 +1,25 @@
+body article h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    line-height: 1.15;
+    color : #747474;
+    
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    color: #747474;
+
+}
+span{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    line-height: 1;
+    color: #747474;
+
+}
+body{
+    text-align: center;
+
+}

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+/* o Font: Montserrat
+- Use CSS import: @import 'https://fonts.googleapis.com/css?family=Montserrat';
+o Generic Font: sans-serif
+o Paddings: 16px */
+
+body{
+    font-family: Montserrat, sans-serif;
+    padding: 1em;
+}
+th, td{
+    border: 1px solid black;
+    padding-left: 0.2em;
+    margin: 0.8em;
+    width: 150px;
+    height: 30px;
+}
